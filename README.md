@@ -1,6 +1,6 @@
 ------
 # LinkedIn Profile Scraper
-LinkedIn profile scraper using Puppeteer headless browser. So you can use it on a server. Returns structured data in JSON format. Works in 2020.
+LinkedIn profile scraper using Puppeteer headless browser. So you can use it on a server. Returns structured data in JSON format. Works in 2021.
 
 [![Publish NPM Package](https://github.com/ebdmuir/linkedin-profile-scraper/actions/workflows/build.yaml/badge.svg)](https://github.com/ebdmuir/linkedin-profile-scraper/actions/workflows/build.yaml)
 
