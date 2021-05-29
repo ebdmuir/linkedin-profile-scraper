@@ -1,5 +1,5 @@
 {
-  "name": "@viliv/linkedin-profile-scraper",
+  "name": "@ebdm/linkedin-profile-scraper",
   "version": "2.3.4",
   "description": "LinkedIn profile scraper returning structured profile data in JSON. Works in 2020.",
   "main": "dist/index.js",
@@ -13,10 +13,10 @@
     "release": "release-it",
     "publishnpm": "npx tsc -p tsconfig.production.json | npm publish --access public"
   },
-  "author": "Yossi Kahlon / Nir Peled - forked from Jordy van den Aardweg <jordyvandenaardweg@gmail.com> (https://github.com/jvandenaardweg)",
+  "author": "Eric Muir <eric@ebdm.dev> -  forked from Yossi Kahlon / Nir Peled <github@viliv.io> (https://github.com/viliv-io/linkedin-profile-scraper) & Jordy van den Aardweg <jordyvandenaardweg@gmail.com> (https://github.com/jvandenaardweg)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/viliv-io/linkedin-profile-scraper.git"
+    "url": "https://github.com/ebdmuir/linkedin-profile-scraper"
   },
   "license": "ISC",
   "dependencies": {
