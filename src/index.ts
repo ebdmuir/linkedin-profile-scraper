@@ -542,7 +542,10 @@ export class LinkedInProfileScraper {
         '.pv-skills-section__additional-skills', // Skills
         '.pv-about-section .lt-line-clamp__more', // About bio
         '.experience-section .pv-profile-section__see-more-inline', // Experience
-        'inline-show-more-text__button  link'
+        '.inline-show-more-text__button  link',
+        `inline-show-more-text__button
+            
+        link`
       ]
 
       // To give a little room to let data appear. Setting this to 0 might result in "Node is detached from document" errors
